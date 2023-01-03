@@ -1,0 +1,17 @@
+Program Files;
+Var FName, Txt : String[10];
+    UserFile   : Text;
+Begin
+ Assign(UserFile,'C:\Users\andrew\Desktop\Files.txt');
+ Rewrite(UserFile);
+ Writeln(UserFile,'PASCAL PROGRAMMING');
+ Writeln(UserFile,'yoyoyo,');
+ Writeln(UserFile,'please send me an email at:');
+ Writeln(UserFile,'andre@iconologic.com.com');
+ Writeln('Write some text to the file:');
+ Append(Txt);
+ Append(UserFile,'');
+ append(UserFile,'The user entered this text:');
+ append(UserFile,txt);
+ Close(UserFile);
+End.
