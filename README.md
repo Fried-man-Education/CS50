@@ -9,4 +9,7 @@ Harvard University's introduction to the intellectual enterprises of computer sc
 - How to engage with a vibrant community of like-minded learners from all levels of experience
 - How to develop and present a final programming project to your peers
 ## Personal Note
-I started this in middle school(?) and never got around to finishing it. Really enjoyed what I learned from my time put into the course. The following has the first two projects of the 2015(?) version of Harvard's publically available CS50 course. This work was done entirely recreationaly.
+I started this course in 8th grade (2015) and never got around to finishing it. Really enjoyed what I learned from my time put into the course. The following has the first three projects of the 2015 version of Harvard's publically available CS50 course. This work was done entirely recreationaly.
+## Links
+- [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Scratch Project Live Demo](https://scratch.mit.edu/projects/49831898/)
